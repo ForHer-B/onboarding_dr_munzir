@@ -11,3 +11,5 @@ For example, Biweekly Project Plans have an inverted triangle at the start of we
 You can also see the mid evaluation has a project plan due in front of it. The project plan is only up till the end of Capstone-I.
 
 In case of any questions, please reach out to Suleiman.
+
+[[1 Overarching Document of Changes in Policy\|Back]]

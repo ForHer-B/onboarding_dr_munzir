@@ -4,9 +4,9 @@
 
 
 The Project Deliverable Statement will include items from a EDI (taken before the Capstone) which includes 
-- requirement gathering
-- design thinking
-- systems engineering
+- requirement gathering [[Rubric for requirement gathering\|Rubric for requirement gathering]]
+- design thinking [[Tentative Rubric for Design Thinking\|Tentative Rubric for Design Thinking]]
+- systems engineering [[Tentative Rubric for System Engineering\|Tentative Rubric for System Engineering]]
 - verification tests 
 - a project plan
 - a bill of materials

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/1-overarching-document-of-changes-in-policy/","tags":["gardenEntry"]}
 ---
 
-
+Note to MZ: All points in the section "Changes to be made" are links that have their own separate page. I've kept it as concise as possible.
+[[How to Read the Supplementary Excel Sheet\|How to Read the Supplementary Excel Sheet]]
 ### Already Approved
 1. 2-4 is the group of students. 1 and 5 are exceptions to be argued.
 2. Only relevant members of the focus groups attending the relevant evaluations and pitches to better use faculty's time.
@@ -20,4 +21,6 @@ Preamble: A lot of these changes are because people are not taking the handbook 
 9. [[Changing Project Proposal Document to Thesis I\|Changing Project Proposal Document to Thesis I]] 
 10. [[Change of current Mid and Final Evaluation to focus more on progress report and deviations keeping the masterplan in mind\|Change of current Mid and Final Evaluation to focus more on progress report and deviations keeping the masterplan in mind]] 
 11. [[Changes in grade distributions and Industry grading\|Changes in grade distributions and Industry grading]]
+12. [[Plan for Capstone-II\|Plan for Capstone-II]]
+
 

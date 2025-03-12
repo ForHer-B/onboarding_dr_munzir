@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/change-of-current-mid-and-final-evaluation-to-focus-more-on-progress-report-and-deviations-keeping-the-masterplan-in-mind/"}
 ---
 
-
+In the mid evaluation, one other thing expected is for students to revise the plan for the semester.
 
 | Potential Arguments Against                     | CounterArguments                                                                                                                      |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |

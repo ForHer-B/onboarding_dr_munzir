@@ -3,14 +3,14 @@
 ---
 
 
-- **Industry Evaluation/ Demo:** 20%
 - **Project Pitch:** 5%
 - **Capstone Design, Engineering & Project Roadmap:** 15%
 - **Mid Evaluation:** 10%
+- **Final Evaluation:** 17.5%
 - **Thesis Document:** 20%
-- **Final Evaluation:** 20%
 - **Weekly Evaluations:** 5%
 - **Biweekly Project Plans:** 7.5%
+- **Industry Evaluation/ Demo:** 20%
 
 #### **Project Pitch:** 5%
 | Potential Arguments Against            | CounterArguments                                                                                         |
@@ -26,7 +26,7 @@
 #### **Mid Evaluation:** 10%
 It is designed to be formative—encouraging teams to identify issues and adjust their approach—without disproportionately affecting the final grade.
 
-#### Final Evaluation: 17.5%
+#### **Final Evaluation:** 17.5%
 Final evaluations are meant to reflect the culmination of the project’s technical work, problem-solving, and execution. A 17.5% weight is justified because it assesses the final product’s quality and the extent to which teams have met both their strategic and technical objectives over the entire capstone period.
 
 #### **Weekly Evaluations:** 5% 

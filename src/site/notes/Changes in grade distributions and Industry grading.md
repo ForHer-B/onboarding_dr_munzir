@@ -9,6 +9,29 @@
 - **Weekly Evaluations + Biweekly Project Plans:** 20%
 - **Industry Evaluation/ Demo:** 20%
 
+
+
+- **Project Pitch + Roadmap (20%):**  
+    Sets a clear strategic foundation and vision, ensuring every team begins with a well-defined plan that guides all subsequent work.
+    
+- **Mid Evaluation (15%):**  
+    Acts as a crucial checkpoint for progress and course correction, enabling timely adjustments that keep the project on track.
+    
+- **Final Evaluation + Thesis (25%):**  
+    Captures the culmination of technical performance and reflective learning, rewarding both execution and critical analysis of the project journey.
+    
+- **Weekly Evaluations + Biweekly Plans (20%):**  
+    Enforces continuous accountability and agile planning, ensuring that day-to-day progress and adaptive strategies are consistently maintained.
+    
+- **Industry Evaluation/Demo (20%):**  
+    Provides essential real-world feedback that aligns academic work with professional standards, preparing students for industry challenges.
+
+
+
+
+
+---
+PREVIOUS PLAN (NOT TO BE PRESENTED)
 #### **Project Pitch:** 5%
 | Potential Arguments Against            | CounterArguments                                                                                         |
 | -------------------------------------- | -------------------------------------------------------------------------------------------------------- |

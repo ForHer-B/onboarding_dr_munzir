@@ -24,3 +24,4 @@ Preamble: A lot of these changes are because people are not taking the handbook 
 12. [[Plan for Capstone-II\|Plan for Capstone-II]]
 
 
+What are PLOs (there should be all of them) and CLOs (there should be all of them) of Takhleeq Projects?

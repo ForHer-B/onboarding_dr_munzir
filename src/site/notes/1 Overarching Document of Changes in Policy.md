@@ -22,6 +22,7 @@ Preamble: A lot of these changes are because people are not taking the handbook 
 10. [[Change of current Mid and Final Evaluation to focus more on progress report and deviations keeping the masterplan in mind\|Change of current Mid and Final Evaluation to focus more on progress report and deviations keeping the masterplan in mind]] 
 11. [[Changes in grade distributions and Industry grading for Capstone-I\|Changes in grade distributions and Industry grading for Capstone-I]]
 12. [[Plan for Capstone-II\|Plan for Capstone-II]]
+13. [[Students Backing out from Takhleeq\|Students Backing out from Takhleeq]]
 
 
-What are PLOs (there should be all of them) and CLOs (there should be all of them) of Takhleeq Projects?
+What are PLOs (there should be all of them) and CLOs (there should be all of them) of Takhleeq Projects and how do they map to the assessments?

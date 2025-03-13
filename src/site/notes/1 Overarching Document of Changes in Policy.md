@@ -20,7 +20,7 @@ Preamble: A lot of these changes are because people are not taking the handbook 
 8. [[Biweekly planning for a detailed short term horizon plan\|Biweekly planning for a detailed short term horizon plan]] 
 9. [[Changing Project Proposal Document to Thesis I\|Changing Project Proposal Document to Thesis I]] 
 10. [[Change of current Mid and Final Evaluation to focus more on progress report and deviations keeping the masterplan in mind\|Change of current Mid and Final Evaluation to focus more on progress report and deviations keeping the masterplan in mind]] 
-11. [[Changes in grade distributions and Industry grading\|Changes in grade distributions and Industry grading]]
+11. [[Changes in grade distributions and Industry grading for Capstone-I\|Changes in grade distributions and Industry grading for Capstone-I]]
 12. [[Plan for Capstone-II\|Plan for Capstone-II]]
 
 

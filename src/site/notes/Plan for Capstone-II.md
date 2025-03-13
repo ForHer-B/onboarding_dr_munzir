@@ -14,12 +14,12 @@ Namely, we will add the following changes:
 Following is the new grade breakdown
 
 
-- **Project Plan for Capstone‑II:** 10%
+- **Project Plan for Capstone‑II:** 15%
 - **Revised Mid Evaluation (Progress Update with Updated Plan):** 10%
 - **Weekly Evaluations (Attendance) + Biweekly Project Plans:** 10%
 - **Thesis Document:** 20%
 - **Final Evaluation:** 20%
-- **Poster and Expo:** 10%
+- **Poster and Expo:** 5%
 - **Industry Evaluation/Demo:** 20%
 
 

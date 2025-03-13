@@ -19,7 +19,7 @@ Following is the new grade breakdown
 - **Weekly Evaluations (Attendance) + Biweekly Project Plans:** 10%
 - **Thesis Document:** 20%
 - **Final Evaluation:** 20%
-- **Poster and Expo:** 5%
+- **Poster and Expo:** 10%
 - **Industry Evaluation/Demo:** 20%
 
 

@@ -4,10 +4,9 @@
 
 
 - **Project Pitch + Capstone Design, Engineering & Project Roadmap :** 20%
-- **Mid Evaluation:** 10%
-- **Final Evaluation:** 17.5%
-- **Thesis Document:** 20%
-- **Weekly Evaluations + Biweekly Project Plans:** 12.5%
+- **Mid Evaluation:** 20%
+- **Final Evaluation + Thesis Document:** 20%
+- **Weekly Evaluations + Biweekly Project Plans:** 20%
 - **Industry Evaluation/ Demo:** 20%
 
 #### **Project Pitch:** 5%

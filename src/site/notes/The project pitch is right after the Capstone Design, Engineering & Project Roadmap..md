@@ -3,7 +3,7 @@
 ---
 
 
-This is to involve all the faculty that were not present in the EDI course. This will also aid the students in presenting their work to faculty. The faculty could also point out areas of concern in the project that the EDI staff or the students did not notice. The pitch scheduled after the Roadmap is so that students create the Roadmap with their advisor and then present it to be evaluated by the committee/rest of the relevant faculty. 
+This is to involve all the faculty that were not present in the EDI course. This will also aid the students in presenting their work to faculty. The faculty could also point out areas of concern in the project that the EDI staff or the students did not notice. The pitch scheduled after the Roadmap is so that students create the Roadmap with their advisor and then present it to be evaluated by the committee/rest of the relevant faculty. The grading of pitch and Roadmap will be done together.
 
 | Potential Arguments Against                                      | CounterArguments                                                                                                                                                                                                      |
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -13,14 +13,15 @@ Namely, we will add the following changes:
 
 Following is the new grade breakdown
 
-- **Industry Evaluation/Demo:** 20%
+
 - **Project Plan for Capstone‑II:** 10%
 - **Revised Mid Evaluation (Progress Update with Updated Plan):** 10%
-- **Biweekly Project Plans:** 5%
-- **Weekly Evaluations (Attendance):** 5%
+- **Weekly Evaluations (Attendance) + Biweekly Project Plans:** 10%
 - **Thesis Document:** 20%
 - **Final Evaluation:** 20%
 - **Poster and Expo:** 5%
+- **Industry Evaluation/Demo:** 20%
+
 
 The **Industry Evaluation/Demo** is set at a 20% to ensure real‑world feedback is a major component.
 

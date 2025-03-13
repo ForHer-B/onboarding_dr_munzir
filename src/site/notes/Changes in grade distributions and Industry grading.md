@@ -3,13 +3,11 @@
 ---
 
 
-- **Project Pitch:** 5%
-- **Capstone Design, Engineering & Project Roadmap:** 15%
+- **Project Pitch + Capstone Design, Engineering & Project Roadmap :** 20%
 - **Mid Evaluation:** 10%
 - **Final Evaluation:** 17.5%
 - **Thesis Document:** 20%
-- **Weekly Evaluations:** 5%
-- **Biweekly Project Plans:** 7.5%
+- **Weekly Evaluations + Biweekly Project Plans:** 12.5%
 - **Industry Evaluation/ Demo:** 20%
 
 #### **Project Pitch:** 5%
@@ -39,7 +37,7 @@ A 7.5% weight provides enough incentive for teams to prepare thoughtful short-te
 
 | Potential Arguments Against                                                                                                                                                                           | CounterArguments                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Industry evaluations may vary widely in their rigor or criteria depending on the specific partner or sector.                                                                                          | Clear, detailed rubrics to be provided to industry evaluators.                                                                                             |
+| Industry evaluations may vary widely in their rigor or criteria depending on the specific partner or sector.                                                                                          | Olin College Arguement                                                                                                                                     |
 | A 20% weight might cause some students to focus disproportionately on impressing industry evaluators, possibly at the expense of the academic and technical depth emphasized in the other components. | The 20% weight is to ensure that students deliver the project while having reference to the finalized set of requirements (that was agreed upon in EDI).   |
 | Industry evaluators may have biases or different interpretations of the evaluation criteria, leading to subjectivity that could affect fairness.                                                      | By establishing transparent evaluation guidelines and involving multiple industry evaluators where possible, the impact of individual bias can be diluted. |
 |                                                                                                                                                                                                       | Real-world Relevance and Benchmarking                                                                                                                      |

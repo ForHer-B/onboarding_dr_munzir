@@ -6,13 +6,13 @@ Since Capstone-II is already quite similar to what we want, there are only a few
 Namely, we will add the following changes:
 1. Project plan for Capstone-II
 2. Mid evaluation is more of a progress update along with an updated plan for the rest of the semester
-3. No changes to thesis document or final evaluation or Poster and Expo
-4. Weekly Evaluations are still implemented with attendance
-5. Introduction of Bi-weekly Project Plans
+3. Weekly Evaluations are still implemented with attendance
+4. Introduction of Bi-weekly Project Plans (combined with the Weekly Evaluation)
+5. Combining the thesis document and final evaluation
 6. Introduction of Industry Evaluation/ Demo
+7. No changes to Poster and Expo
 
 Following is the new grade breakdown
-
 
 - **Project Plan for Capstone‑II:** 15%
 - **Revised Mid Evaluation (Progress Update with Updated Plan):** 15%
@@ -24,11 +24,13 @@ Following is the new grade breakdown
 
 The **Industry Evaluation/Demo** is set at a 20% to ensure real‑world feedback is a major component.
 
-The new **Project Plan for Capstone‑II** and **Revised Mid Evaluation** (which now focuses on progress and plan updates) together account for 20%, emphasizing early planning and course correction.
+The new **Project Plan for Capstone‑II** (15%) accounts for the planning of the Capstone-II to ensure a meaningful timeline and goal.
 
-**Biweekly Project Plans** (5%) and **Weekly Evaluations** (5%) ensure ongoing monitoring and accountability without overburdening the students.
+ **Revised Mid Evaluation** (which now focuses on progress and plan updates) accounts for 15%, emphasizing intelligent planning and course correction.
 
-The core deliverables—**Thesis Document** and **Final Evaluation**—each receive 20%, maintaining focus on the final technical and reflective outcomes.
+**Biweekly Project Plans** and **Weekly Evaluations** (20%) ensure ongoing monitoring and accountability.
+
+The core deliverables—**Thesis Document** and **Final Evaluation**—receive 25%, maintaining focus on the final technical and reflective outcomes.
 
 **Poster and Expo** is kept at 5% to recognize their role in communicating the project’s final impact (the previous iteration also had it at 5%).
 

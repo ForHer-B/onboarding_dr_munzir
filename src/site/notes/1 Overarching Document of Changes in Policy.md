@@ -25,4 +25,4 @@ Preamble: A lot of these changes are because people are not taking the handbook 
 13. [[Students Backing out from Takhleeq\|Students Backing out from Takhleeq]]
 
 
-What are PLOs (there should be all of them) and CLOs (there should be all of them) of Takhleeq Projects and how do they map to the assessments?
+What are PLOs (there should be all of them) and CLOs (there should be all of them) of Takhleeq Projects and how do they map to the assessments/submissions ?

@@ -12,14 +12,12 @@ Namely, we will add the following changes:
 6. Introduction of Industry Evaluation/ Demo
 7. No changes to Poster and Expo
 
-Following is the new grade breakdown
+Comparison of the proposed grade breakdown with the current one.
 
-- **Project Plan for Capstone‑II:** 15%
-- **Revised Mid Evaluation (Progress Update with Updated Plan):** 15%
-- **Weekly Evaluations (Attendance) + Biweekly Project Plans:** 20%
-- **Thesis Document + Final Evaluation:** 25%
-- **Poster and Expo:** 5%
-- **Industry Evaluation/Demo:** 20%
+| Current Grading Scheme                                                                                                                               | Proposed Grading Scheme                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - Poster and Expo: 5%<br>- Prototype Mid-Evaluation: 10%<br>- Prototype Final Evaluation: 40%<br>- Thesis Report: 25%<br>- Weekly Retrospective: 20% | - **Project Plan for Capstone‑II:** 15%<br>- **Revised Mid Evaluation (Progress Update with Updated Plan):** 15%<br>- **Weekly Evaluations (Attendance) + Biweekly Project Plans:** 20%<br>- **Thesis Document + Final Evaluation:** 25%<br>- **Poster and Expo:** 5%<br>- **Industry Evaluation/Demo:** 20% |
+
 
 
 The **Industry Evaluation/Demo** is set at a 20% to ensure real‑world feedback is a major component.

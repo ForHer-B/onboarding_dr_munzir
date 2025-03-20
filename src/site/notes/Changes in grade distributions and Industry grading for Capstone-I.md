@@ -3,11 +3,11 @@
 ---
 
 
-- **Project Pitch + Capstone Design, Engineering & Project Roadmap :** 20%
-- **Mid Evaluation:** 15%
-- **Final Evaluation + Thesis Document:** 25%
-- **Weekly Evaluations + Biweekly Project Plans:** 20%
-- **Industry Evaluation/ Demo:** 20%
+| Previous Grading Scheme                                                                                                                                                                    | Proposed Grading Scheme                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Project Pitch: 5%<br>- Project Deliverables Statement: 5%<br>- PoC Mid-Evaluation: 10%<br>- PoC Final Evaluation: 40%<br>- Project Proposal Document: 20%<br>- Weekly Retrospective: 20% | - **Project Pitch + Capstone Design, Engineering & Project Roadmap :** 20%<br>- **Mid Evaluation:** 15%<br>- **Final Evaluation + Thesis Document:** 25%<br>- **Weekly Evaluations + Biweekly Project Plans:** 20%<br>- **Industry Evaluation/ Demo:** 20% |
+
+
 
 
 
